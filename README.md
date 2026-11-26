@@ -10,6 +10,8 @@ Proyecto Final de **Inteligencia Artificial**. Sistema web que encuentra a las p
 - Isaias Ezequiel Rivera Lopez
 - Jorge Brayan Hernandez Simon
 
+🔗 **Sitio web:** https://yayi02.github.io/Buscando_pareja.github.io/
+
 ## ¿Cómo funciona?
 
 1. El usuario escribe su nombre y responde **15 características** personales usando sliders y menús desplegables con lenguaje cotidiano (por ejemplo, “Muy reservado – Muy sociable”). Cada respuesta se convierte internamente en un valor difuso entre 0 y 1, que el usuario no ve.
